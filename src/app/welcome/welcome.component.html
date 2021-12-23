@@ -1,0 +1,23 @@
+
+
+<div class="container bg-success py-5">
+    <h1 class="display-5 fw-bold">Welcome To Online Quiz </h1>
+    <marquee width="60%" direction="lef" height="100px">
+        <h1>Best of luck..!!</h1>
+        </marquee>
+    <h4>Instructions:</h4>
+    <ol>
+        <li>Correct question gives you 5 points</li>
+        <li>Incorrect question leads you -2 points</li>
+        <li>You will  have 1 minute for each question to answer</li>
+        <li>Refreshing the page will reset the quiz</li>
+    </ol>
+<div class="name col-md-4 my-3">
+    <label for="">Enter your name:</label>
+    <input #name type="text" class="form-control"><br>
+    
+</div>
+<button class="btn btn-primary btn-lg" routerLink="/main" (click)="startTest()">Start The Test</button> 
+</div>
+<footer> @copy rights reserved ,Harshith
+</footer>

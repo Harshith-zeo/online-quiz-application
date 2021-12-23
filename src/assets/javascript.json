@@ -1,0 +1,94 @@
+{
+    "javascript": [{
+            "questionText": "1. What is the HTML tag under which one can write the JavaScript code?",
+            "options": [{
+                    "text": "  <script>",
+                    "correct": true
+                },
+                {
+                    "text": "<javascript>"
+                },
+                {
+                    "text": "<scripted>"
+                },
+                {
+                    "text": "<js>"
+                }
+            ]
+            
+        },
+        {
+            "questionText": " Choose the correct JavaScript syntax to change the content of the following HTML code.",
+            "options": [{
+                    "text": "document.getElement(“geek”).innerHTML=”I am a Geek”;"
+                },
+                {
+                    "text": "document.getId(“geek”)=”I am a Geek”;"
+                },
+                {
+                    "text": "document.getElementById(“geek”).innerHTML=I am a Geek"
+                },
+                {
+                    "text": "document.getElementById(“geek”).innerHTML=”I am a Geek”;",
+                    "correct": true
+                }
+            ]
+         
+        },
+        {
+            "questionText": "Which of the following is the correct syntax to display “GeeksforGeeks” in an alert box using JavaScript?",
+            "options": [{
+                    "text": "msgbox(“GeeksforGeeks”);"
+                },
+                {
+                    "text": "alert(“GeeksforGeeks”);",
+                    "correct": true
+                },
+                {
+                    "text": "msg(“GeeksforGeeks”);"
+                },
+                {
+                    "text": "alertbox(“GeeksforGeeks”);"
+                }
+            ]
+         
+        },
+        {
+            "questionText": " Which of the following is not a reserved word in JavaScript?",
+            "options": [{
+                    "text": "interface"
+                },
+                {
+                    "text": "program",
+                    "correct": true
+                },
+                {
+                    "text": "throws"
+                },
+                {
+                    "text": "short"
+                }
+            ]
+          
+        },
+        {
+            "questionText": " What is the correct syntax for referring to an external script called “geek.js”?",
+            "options": [{
+                    "text": " <script src=”geek.js”>",
+                    "correct": true
+                },
+                {
+                    "text": " <script href=”geek.js”>"
+                },
+                {
+                    "text": " <script ref=”geek.js”>"
+                },
+                {
+                    "text": "<script name=”geek.js”>"
+                }
+            ]
+            
+        }
+    ]
+}
+    

@@ -1,0 +1,94 @@
+{
+    "html": [{
+            "questionText": "What does HTML stand for?",
+            "options": [{
+                    "text": " Hyper Text Markup Language",
+                    "correct": true
+                },
+                {
+                    "text": "Hot Mail"
+                },
+                {
+                    "text": "Hyer text reading"
+                },
+                {
+                    "text": "none of the above"
+                }
+            ]
+            
+        },
+        {
+            "questionText": " HTML uses",
+            "options": [{
+                    "text": "User defined tags"
+                },
+                {
+                    "text": "Pre-specified tags"
+                },
+                {
+                    "text": "Tags only for linking"
+                },
+                {
+                    "text": "Fixed tags defined by the language",
+                    "correct": true
+                }
+            ]
+         
+        },
+        {
+            "questionText": "The year in which HTML was first proposed _______.?",
+            "options": [{
+                    "text": "1991."
+                },
+                {
+                    "text": "1990.",
+                    "correct": true
+                },
+                {
+                    "text": "1992"
+                },
+                {
+                    "text": "1999."
+                }
+            ]
+         
+        },
+        {
+            "questionText": " Apart from <b> tag, what other tag makes text bold ?",
+            "options": [{
+                    "text": "<fat>"
+                },
+                {
+                    "text": "<strong>",
+                    "correct": true
+                },
+                {
+                    "text": "<light>"
+                },
+                {
+                    "text": "<highlight>"
+                }
+            ]
+          
+        },
+        {
+            "questionText": "What tag is used to display a picture in a HTML page?",
+            "options": [{
+                    "text": "img",
+                    "correct": true
+                },
+                {
+                    "text": "destructor"
+                },
+                {
+                    "text": "import"
+                },
+                {
+                    "text": "subscribe"
+                }
+            ]
+            
+        }
+    ]
+}
+    
